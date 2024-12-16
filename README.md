@@ -1,1 +1,1 @@
-This repository contains the datasets used in paper "Re-TASK: Revisiting LLM Tasks from Capability, Skill, and Knowledge Perspectives"
+This repository contains the datasets used in paper "Re-TASK: Revisiting LLM Tasks from Capability, Skill, and Knowledge Perspectives". All code-related materials (i.e., prompts for various tasks) are included in the paper’s Appendix.
