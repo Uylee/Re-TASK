@@ -1,0 +1,1134 @@
+1<start>
+Question: What is the relationship between the average number of detected photons and the total number of photons?
+Options: A) N_detected = η / N_total, B) N_detected = η * N_total, C) N_detected = η - N_total, D) N_detected = η + N_total
+Answer: B) N_detected = η * N_total 
+
+Question: How is the standard deviation of the detected photons calculated?
+Options: A) σ = N_total * η, B) σ = sqrt(N_total * η), C) σ = sqrt(N_total * η * (1 - η)), D) σ = N_total / η
+Answer: C) σ = sqrt(N_total * η * (1 - η))
+<end>
+
+
+
+
+2<start>
+Question: A thin film of oil with a refractive index of 1.5 and a thickness of 500 nm is placed on water. What is the condition for constructive interference to occur in the reflected light?
+Options: 
+A) 2n(500 nm) = (m + 1/2)λ
+B) 2n(500 nm) = mλ
+C) 2(500 nm) = mλ
+D) n(500 nm) = mλ
+Answer: B) 2n(500 nm) = mλ
+<end>
+
+
+
+
+3<start>
+Question: A reversible process occurs in a system where 200 J of heat is transferred from the environment at a temperature of 400 K. What is the total change in entropy?
+Options: 
+A) ΔS_total = 0.5 J/K
+B) ΔS_total = 0 J/K
+C) ΔS_total = -0.5 J/K
+D) ΔS_total = 1 J/K
+Answer: B) ΔS_total = 0 J/K
+<end>
+
+
+
+
+4<start>
+Question: What type of laser is most suitable for spectroscopy over a range of visible wavelengths?
+Options: A) Helium-neon laser, B) Dye laser, C) Ruby laser, D) Excimer laser
+Answer: B) Dye laser
+<end>
+
+
+
+
+5<start>
+Question: What principle is responsible for the energy difference between ortho- and para- states in the helium atom due to electron spin and its effects on energy levels?
+Options: A) Pauli inclusion principle, B) Exchange interaction and spin-statistics theorem, C) Electron proton interaction, D) Nuclear spin effect
+Answer: B) Exchange interaction and spin-statistics theorem
+<end>
+
+
+
+
+6<start>
+Question: What is the spin quantum number of an atom with 3 electrons having up spin and 5 electrons having down spin?
+Options: 
+A: S = 1 
+B: S = -1 
+C: S = 0 
+D: S = 2
+Answer: B
+<end>
+
+
+
+
+7<start>
+Question: Two identical capacitors with capacitance C are connected in series and initially charged to a voltage V_0. What is the final voltage on the first capacitor after they are connected?
+Options: V_0, (1/2)V_0, (2/3)V_0, (3/2)V_0
+Answer: (2/3)V_0
+<end>
+
+
+
+
+8<start>
+Question: A proton is accelerated from rest to 0.6c. What is the work done on the proton in terms of its rest mass energy?
+Options: 
+A) 0.1mc^2
+B) 0.25mc^2
+C) 0.5mc^2
+D) 0.75mc^2
+Answer: B
+<end>
+
+
+
+
+9<start>
+Question: What is the relationship between the wavelength of a particle and its momentum according to the equation λ = h / p?
+Options: 
+A) Directly proportional
+B) Inversely proportional
+C) Exponentially related
+D) Logarithmically related
+Answer: B
+<end>
+
+
+
+
+10<start>
+Question: What is the relationship between total energy and relativistic momentum when the total energy E is equal to 2mc^2?
+Options: A) p = √((2mc^2)^2 - (m^2)c^4) / c, B) p = 2mu, C) p = γmu, D) p = √((E^2) - (m^2)c^4) / c
+Answer: A) p = √((2mc^2)^2 - (m^2)c^4) / c
+<end>
+
+
+
+
+11<start>
+Question: What is the geometric arrangement of carbon atoms in the diamond structure?
+Options: A) Octahedral, B) Tetrahedral, C) Trigonal, D) Square planar
+Answer: B) Tetrahedral
+<end>
+
+
+
+
+12<start>
+Question: A coin is placed on a turntable rotating at 30 RPM. If the coefficient of static friction between the coin and the turntable is 0.5, what is the maximum distance from the center of the turntable at which the coin will not slide off?
+Options: 
+A) r = √((0.5 * 9.8) / ((2 * π * 30) / 60)^2)
+B) r = √((0.5 * 9.8) / ((2 * π * 60) / 30)^2)
+C) r = √((0.2 * 9.8) / ((2 * π * 30) / 60)^2)
+D) r = √((0.8 * 9.8) / ((2 * π * 30) / 60)^2)
+Answer: A
+<end>
+
+
+
+
+13<start>
+Question: How can the Hall effect be used to determine the type of a doped semiconductor?
+Options: A) By measuring the Hall coefficient to identify the sign of charge carriers, B) By analyzing the color of the semiconductor, C) By measuring the conductivity of the semiconductor, D) By observing the shape of the semiconductor
+Answer: A) By measuring the Hall coefficient to identify the sign of charge carriers
+<end>
+
+
+
+
+14<start>
+Question: What is the principle behind the energy released in nuclear reactions, according to Einstein's theory?
+Options: 
+A) E = mc
+B) E = mc^2
+C) E = m/c^2
+D) E = c^2/m
+Answer: B
+<end>
+
+
+
+
+15<start>
+Question: What is the primary factor that determines the wavelengths of light emitted or absorbed by atoms and molecules?
+Options: A) Temperature, B) Density, C) Electronic structure, D) Nuclear structure
+Answer: C) Electronic structure
+<end>
+
+
+
+
+16<start>
+Question: What is the key difference in wave function symmetry between bosons and fermions?
+Options: 
+A) Bosons have antisymmetric wave functions, while fermions have symmetric wave functions
+B) Bosons have symmetric wave functions, while fermions have antisymmetric wave functions
+C) Both bosons and fermions have symmetric wave functions
+D) Both bosons and fermions have antisymmetric wave functions
+Answer: B) Bosons have symmetric wave functions, while fermions have antisymmetric wave functions
+<end>
+
+
+
+
+17<start>
+Question: What principle is responsible for the energy difference between ortho- and para- states in the helium atom due to electron spin and its effects on energy levels?
+Options: A) Pauli inclusion principle, B) Exchange interaction and spin-statistics theorem, C) Electron proton interaction, D) Nuclear spin effect
+Answer: B) Exchange interaction and spin-statistics theorem
+<end>
+
+
+
+
+18<start>
+Question: A 2 kg block is attached to a spring with a spring constant of 100 N/m. If the block passes through its equilibrium position with a velocity of 4 m/s, what is the total mechanical energy of the system?
+Options: 
+A: 8 J
+B: 16 J
+C: 32 J
+D: 64 J
+Answer: B
+<end>
+
+
+
+
+19<start>
+Question: A stick of proper length 1 meter moves at a speed of 0.8c relative to an observer. What is the time it takes for the stick to pass the observer?
+Options: 
+A) 2.5 * 10^-9 seconds
+B) 7.5 * 10^-9 seconds
+C) 1 * 10^-8 seconds
+D) 2.5 * 10^-8 seconds
+Answer: B
+<end>
+
+
+
+
+20<start>
+Question: What is the procedure to calculate the work done to accelerate a proton from rest to 0.6c?
+Options: 
+A) Calculate the Lorentz factor γ and substitute it into the equation for kinetic energy, then find the difference between the initial and final kinetic energy
+B) Calculate the Lorentz factor γ and substitute it into the equation for work done, allowing us to determine the energy required to accelerate the proton
+C) Calculate the kinetic energy at the initial and final speeds, then find the difference between the two kinetic energies
+D) Calculate the speed of the proton and substitute it into the equation for kinetic energy
+Answer: B
+<end>
+
+
+
+
+21<start>
+Question: What is the underlying process that occurs when high-energy electrons bombard a metal target to produce characteristic X-rays?
+Options: A) Electron-positron annihilation, B) Proton-neutron interaction, C) Electron transitions and photon emission, D) Nuclear fission
+Answer: C) Electron transitions and photon emission
+<end>
+
+
+
+
+22<start>
+Question: What is the total number of electrons when the first two energy levels of an atom are filled?
+Options: 4, 8, 10, 12
+Answer: 10
+<end>
+
+
+
+
+23<start>
+Question: What happens to the separation of bright fringes in a double-slit interference pattern when the frequency of the laser light is doubled?
+Options: A) The separation of bright fringes is halved, B) The separation of bright fringes is doubled, C) The separation of bright fringes remains the same, D) The separation of bright fringes is quadrupled
+Answer: A) The separation of bright fringes is halved
+<end>
+
+
+
+
+24<start>
+Question: What is the total radiation force exerted on a surface with an area of 10 m^2, reflectivity of 0.5, and intensity of radiation of 1000 W/m^2, given the speed of light is approximately 3 x 10^8 m/s?
+Options: 
+A) F = (1 + 0.5) * (1000 / (3 x 10^8)) * 10
+B) F = (1 - 0.5) * (1000 / (3 x 10^8)) * 10
+C) F = (1 + 0.5) * (1000 / (3 x 10^7)) * 10
+D) F = (1 - 0.5) * (1000 / (3 x 10^7)) * 10
+Answer: A
+<end>
+
+
+
+
+25<start>
+Question: What is the sign of the charge carriers in a doped semiconductor with a Hall coefficient of -0.05 m^3/C?
+Options: A) Holes, B) Electrons, C) Both, D) None
+Answer: B) Electrons
+<end>
+
+
+
+
+26<start>
+Question: What type of semiconductor is created when germanium is doped with elements from group V of the periodic table?
+Options: A) p-type semiconductor, B) n-type semiconductor, C) intrinsic semiconductor, D) extrinsic semiconductor
+Answer: B) n-type semiconductor
+<end>
+
+
+
+
+27<start>
+Question: What principle can be used to calculate the mass of a planet given the semi-major axis and period of its moon's orbit?
+Options: A) Conservation of Angular Momentum, B) Vis-Viva Equation, C) Kepler's Third Law, D) Law of Universal Gravitation
+Answer: C) Kepler's Third Law
+<end>
+
+
+
+
+28<start>
+Question: A spaceship is traveling at a significant fraction of the speed of light. If its proper length is 100 meters and it is observed to be 80 meters long, what is its velocity?
+Options: 
+A) 0.6c
+B) 0.8c
+C) 0.4c
+D) 0.2c
+Answer: B) 0.8c
+<end>
+
+
+
+
+29<start>
+Question: A proton is accelerated through a potential difference of 1000 V. If its initial velocity is negligible, what is its final velocity?
+Options: 
+A) v = sqrt(2qV/m)
+B) v = sqrt(qV/m)
+C) v = sqrt(qV/2m)
+D) v = 2sqrt(qV/m)
+Answer: A
+<end>
+
+
+
+
+30<start>
+Question: A coil with 100 turns is placed in a magnetic field that changes from 0.5 T to 1.5 T in 0.2 seconds. If the area of the coil is 0.1 m^2, what is the average induced EMF?
+Options: 
+A: 20 V
+B: 25 V
+C: 50 V
+D: 100 V
+Answer: B
+<end>
+
+
+
+
+31<start>
+Question: What is the relationship between the potential difference and the frequency of the incident light in the photoelectric effect?
+Options: A) V = (h/e)f - φ/e, B) V = (e/h)f + φ/e, C) V = (h/e)f + φ/e, D) V = (e/h)f - φ/e
+Answer: A
+<end>
+
+
+
+
+32<start>
+Question: What happens to the orbital energy of a planet if its semi-major axis increases while the mass of the central object remains constant?
+Options: A) It increases, B) It decreases, C) It remains the same, D) It becomes zero
+Answer: B) It decreases
+<end>
+
+
+
+
+33<start>
+Question: What happens to the frequency of resonance when the speed of sound is 3 percent lower?
+Options: 
+A) It increases by 3 percent
+B) It decreases by 3 percent
+C) It remains the same
+D) It decreases to 97 percent of the original frequency
+Answer: D
+<end>
+
+
+
+
+34<start>
+Question: A photon detector has a quantum efficiency of 0.05 and receives 1000 photons. What is the standard deviation of the number of detected photons?
+Options: 
+A) √(1000 * 0.05) 
+B) √(1000 * 0.05 * (1 - 0.05)) 
+C) √(1000) 
+D) 1000 * 0.05
+Answer: B
+<end>
+
+
+
+
+35<start>
+Question: What is the average total energy of a three-dimensional harmonic oscillator in thermal equilibrium?
+Options: E = kT, E = 2kT, E = 3kT, E = 6kT
+Answer: E = 3kT
+<end>
+
+
+
+
+36<start>
+Question: What is the required counting time to achieve a 1% uncertainty in measuring the rate of radioactive decay with an average count rate of 5 counts per second?
+Options: A) 2000 seconds, B) 4000 seconds, C) 20000 seconds, D) 10000 seconds
+Answer: D) 10000 seconds
+<end>
+
+
+
+
+37<start>
+Question: What is the relationship between the electric displacement current and the electric field?
+Options: A) Id = ε₀ * (dΦE/dt), B) Id = ε₀ * ΦE, C) Id = (dΦE/dt) / ε₀, D) Id = ΦE / ε₀
+Answer: A) Id = ε₀ * (dΦE/dt)
+<end>
+
+
+
+
+38<start>
+Question: What is the primary difference between a negative muon and an electron?
+Options: A) Spin, B) Mass, C) Charge, D) Interactions
+Answer: B) Mass
+<end>
+
+
+
+
+39<start>
+Question: What is the speed of light in a dielectric material with a dielectric constant of 4, given that the speed of light in vacuum is 3.0 x 10^8 m/s?
+Options: A) 1.5 x 10^8 m/s, B) 2.0 x 10^8 m/s, C) 2.5 x 10^8 m/s, D) 3.5 x 10^8 m/s
+Answer: A)
+<end>
+
+
+
+
+40<start>
+Question: What happens to the energy available to melt ice when the temperature is doubled?
+Options: A) It decreases by a factor of 2, B) It increases by a factor of 2, C) It increases by a factor of 16, D) It remains the same
+Answer: C) It increases by a factor of 16
+<end>
+
+
+
+
+41<start>
+Question: What is the formula to calculate power in an electric circuit?
+Options: P = V/R, P = V^2/R, P = V*R, P = R/V
+Answer: P = V^2/R
+<end>
+
+
+
+
+42<start>
+Question: How can the index of refraction of a gas be determined using Michelson interferometry when the gas cell is evacuated?
+Options: 
+A) By measuring the change in temperature of the gas cell
+B) By using the formula \( n = 1 + \frac{\Delta N \lambda}{2L} \) where \( \Delta N \) is the number of fringes shifted, \( \lambda \) is the laser light wavelength, and \( L \) is the gas cell length
+C) By calculating the change in pressure of the gas cell
+D) By observing the color change of the fringes
+Answer: B
+<end>
+
+
+
+
+43<start>
+Question: What is the relationship between the kinetic energy of electrons and their de Broglie wavelength in the context of electron diffraction in a crystal?
+Options: 
+A) λ = h / √(2mK)
+B) λ = h * √(2mK)
+C) λ = h + √(2mK)
+D) λ = h - √(2mK)
+Answer: A
+<end>
+
+
+
+
+44<start>
+Question: A solid disk rolls without slipping on a horizontal surface. What fraction of its total kinetic energy is rotational kinetic energy?
+Options: 1/2, 1/3, 2/3, 1
+Answer: 1/3
+<end>
+
+
+
+
+45<start>
+Question: What is the minimum thickness of an oil film with a refractive index of 1.2, given that the wavelength of blue light is 480 nm and considering the phase change due to reflection off a glass surface?
+Options: 
+A) 100 nm
+B) 200 nm
+C) 1000 nm
+D) 2000 nm
+Answer: B) 200 nm
+<end>
+
+
+
+
+46<start>
+Question: What is the Coefficient of Performance (COP) of a heat pump that delivers 1200 kJ of heat indoors and requires 200 kJ of work?
+Options: A) 2, B) 4, C) 6, D) 8
+Answer: B) 6
+<end>
+
+
+
+
+47<start>
+Question: A police car is moving towards a wall at a speed of 3.5 m/s, emitting a siren with a frequency of 600 Hz. If the speed of sound is 350 m/s and the driver is moving at the same speed as the car, what is the frequency of the echo heard by the driver?
+Options: 
+A) 602.91 Hz
+B) 603.29 Hz
+C) 606.06 Hz
+D) 612.37 Hz
+Answer: A
+<end>
+
+
+
+
+48<start>
+Question: A muon is traveling at 0.8c relative to a lab frame and has a proper lifetime of 2.2 μs. How far will it travel in the lab frame before decaying?
+Options: 
+A) 0.44 km
+B) 0.88 km
+C) 1.32 km
+D) 1.76 km
+Answer: B) To solve this, first calculate the Lorentz factor γ = 1 / sqrt(1 - (0.8c)²/c²) = 1 / sqrt(1 - 0.64) = 1 / sqrt(0.36) = 1 / 0.6 = 1.6667. Then, calculate the time measured in the lab frame t = γt₀ = 1.6667 * 2.2 μs = 3.6667 μs. Finally, calculate the distance traveled d = v × t = 0.8c × 3.6667 μs = 0.8 × 3 × 10⁸ m/s × 3.6667 × 10⁻6 s = 0.8 × 3 × 3.6667 m = 8.8 m = 0.0088 km × 100 = 0.88 km.
+<end>
+
+
+
+
+49<start>
+Question: A tube filled with water is moving at a velocity of 1/2 c relative to the lab frame. What is the velocity of light in the water relative to the lab frame, given that the index of refraction of water is 4/3?
+Options: 
+A) (3/4)c / (1 + (1/2)(3/4))
+B) (3/4)c / (1 - (1/2)(3/4))
+C) (3/4)c / (1 + (1/2)(3/4)c^2)
+D) (3/4)c / (1 - (1/2)(3/4)c^2)
+Answer: A
+<end>
+
+
+
+
+50<start>
+Question: What is the relationship between the total energy of a particle, its momentum, and its rest mass?
+Options: A) E² = (pc)^2 - (m₀c^2)^2, B) E² = (pc)^2 + (m₀c^2)^2, C) E² = (pc)^2 / (m₀c^2)^2, D) E² = (pc)^2 * (m₀c^2)^2
+Answer: B) E² = (pc)^2 + (m₀c^2)^2
+<end>
+
+
+
+
+51<start>
+Question: What is the formula to calculate the resolution of an instrument?
+Options: R = λ * Δλ, R = λ / Δλ, R = Δλ / λ, R = Δλ - λ
+Answer: R = λ / Δλ
+<end>
+
+
+
+
+52<start>
+Question: What type of laser is most suitable for spectroscopy over a range of visible wavelengths?
+Options: A) Helium-neon laser, B) Dye laser, C) Ruby laser, D) Excimer laser
+Answer: B) Dye laser
+<end>
+
+
+
+
+53<start>
+Question: What is a characteristic of the eigenvalues of a Hermitian operator?
+Options: 
+A) They can be complex numbers
+B) They can be imaginary numbers
+C) They are real numbers
+D) They are always zero
+Answer: C
+<end>
+
+
+
+
+54<start>
+Question: A car is accelerating at 2 m/s^2. If the mass of the car is 1500 kg, what is the net force acting on the car?
+Options: 2500 N, 3000 N, 2000 N, 3500 N
+Answer: 3000 N
+<end>
+
+
+
+
+55<start>
+Question: What is the physical implication of ∇ · B = 0 in the context of magnetic fields?
+Options: A) Magnetic monopoles attract each other, B) Magnetic monopoles repel each other, C) Magnetic monopoles do not exist, D) Magnetic monopoles have zero charge
+Answer: C) Magnetic monopoles do not exist
+<end>
+
+
+
+
+56<start>
+Question: A ball has a mass of 0.5 kg and a velocity of 10 m/s with a 10% uncertainty in the measured speed. What is the fractional uncertainty in its kinetic energy?
+Options: 0.1, 0.2, 0.05, 0.01
+Answer: 0.2
+<end>
+
+
+
+
+57<start>
+Question: A particle is moving in a circular path with a speed of 10 m/s and a radius of 10 m. If the tangential acceleration is 10 m/s^2, what is the angle between the particle's velocity and acceleration vectors?
+Options: 0°, 30°, 45°, 60°
+Answer: 45°
+<end>
+
+
+
+
+58<start>
+Question: What is the relationship between the energy radiated per second per unit area and the absolute temperature of an object according to the Stefan-Boltzmann law?
+Options: A) E = σT, B) E = σT^2, C) E = σT^3, D) E = σT^4
+Answer: D) E = σT^4
+<end>
+
+
+
+
+59<start>
+Question: A coil with 100 turns is placed in a magnetic field that changes from 0.5 T to 1.5 T in 0.2 seconds. If the area of the coil is 0.1 m^2, what is the average induced EMF?
+Options: 
+A: 20 V
+B: 25 V
+C: 50 V
+D: 100 V
+Answer: B
+<end>
+
+
+
+
+60<start>
+Question: A reversible process occurs in a system where 200 J of heat is transferred from the environment at a temperature of 400 K. What is the total change in entropy?
+Options: 
+A) ΔS_total = 0.5 J/K
+B) ΔS_total = 0 J/K
+C) ΔS_total = -0.5 J/K
+D) ΔS_total = 1 J/K
+Answer: B) ΔS_total = 0 J/K
+<end>
+
+
+
+
+61<start>
+Question: What is the formula for the resonant frequency of the nth harmonic in an organ pipe that is open at both ends?
+Options: A) f_n = ((2n - 1) * v) / (4 * L), B) f_n = (n * v) / (2 * L), C) f_n = (n * v) / (4 * L), D) f_n = ((2n + 1) * v) / (2 * L)
+Answer: B) f_n = (n * v) / (2 * L) 
+
+Question: What is the formula for the resonant frequency of the nth harmonic in an organ pipe that is closed at one end?
+Options: A) f_n = ((2n - 1) * v) / (4 * L), B) f_n = (n * v) / (2 * L), C) f_n = (n * v) / (4 * L) for odd integers n, D) f_n = ((2n + 1) * v) / (2 * L)
+Answer: A) f_n = ((2n - 1) * v) / (4 * L) 
+
+Question: Why are only odd harmonics allowed in an organ pipe that is closed at one end?
+Options: A) Because the pipe is open at both ends, B) Because the speed of sound is constant, C) Because the pipe's length is fixed, D) Because the closed end creates a node that suppresses even harmonics
+Answer: D) Because the closed end creates a node that suppresses even harmonics 
+
+Question: What is the relationship between the resonant frequency and the length of the pipe for an organ pipe that is open at both ends?
+Options: A) The resonant frequency increases as the length of the pipe increases, B) The resonant frequency decreases as the length of the pipe increases, C) The resonant frequency is independent of the length of the pipe, D) The resonant frequency is directly proportional to the length of the pipe
+Answer: B) The resonant frequency decreases as the length of the pipe increases 
+
+Question: What is the difference in the formula for the resonant frequency between an organ pipe that is open at both ends and one that is closed at one end?
+Options: A) The formula is the same for both, B) The formula for the closed pipe has a factor of 2 in the denominator, C) The formula for the open pipe has a factor of 2 in the denominator, D) The formula for the closed pipe only allows odd integers n
+Answer: B) The formula for the closed pipe has a factor of 2 in the denominator
+<end>
+
+
+
+
+62<start>
+Question: What is the relationship between the energy of radiation and its frequency?
+Options: A) E = hf, B) E = 1/f, C) E = f^2, D) E = 1/hf
+Answer: A) E = hf
+<end>
+
+
+
+
+63<start>
+Question: What is the frequency of the third harmonic of a closed-end organ pipe with a fundamental frequency of 131 Hz?
+Options: 393 Hz, 262 Hz, 131 Hz, 524 Hz
+Answer: 393 Hz
+<end>
+
+
+
+
+64<start>
+Question: If the orbital angular momentum quantum number \(l\) is 2, how many values can the magnetic quantum number \(m_l\) take?
+Options: 3, 5, 2, 1
+Answer: 5
+<end>
+
+
+
+
+65<start>
+Question: If the period of object B is twice that of object A, what is the relationship between the lengths of object B and object A?
+Options: L_B = L_A, L_B = 2L_A, L_B = 4L_A, L_B = 8L_A
+Answer: L_B = 4L_A
+<end>
+
+
+
+
+66<start>
+Question: What is the primary mechanism by which the BCS theory explains the attraction between Cooper pairs in a superconductor?
+Options: A) Electron-electron interactions, B) Electron-phonon interactions, C) Phonon-phonon interactions, D) Electron-lattice interactions
+Answer: B) Electron-phonon interactions
+<end>
+
+
+
+
+67<start>
+Question: A spaceship is traveling at a significant fraction of the speed of light. If its proper length is 100 meters and it is observed to be 80 meters long, what is its velocity?
+Options: 
+A) 0.6c
+B) 0.8c
+C) 0.4c
+D) 0.2c
+Answer: B) 0.8c
+<end>
+
+
+
+
+68<start>
+Question: What is the ionization energy of helium?
+Options: 24.6 eV, 54.4 eV, 79.0 eV, 13.6 eV
+Answer: 24.6 eV
+<end>
+
+
+
+
+69<start>
+Question: If the temperature of the cosmic microwave background radiation changes from 2.7 K to 1.8 K, what is the ratio of the scale factors of the universe at these two temperatures?
+Options: a1/a2 = 2/3, a1/a2 = 3/2, a1/a2 = 1/2, a1/a2 = 2
+Answer: a1/a2 = 3/2
+<end>
+
+
+
+
+70<start>
+Question: What is the displacement current Id in a circuit with a changing electric flux ΦE, given the permittivity of free space ε₀ = 8.85 * 10^(-12) F/m and the rate of change of electric flux dΦE/dt = 5 * 10^6 V/m^2/s?
+Options: 
+A) Id = 5 * 10^6 A
+B) Id = 44.25 * 10^(-6) A
+C) Id = ε₀ * (dΦE/dt)
+D) Id = (dΦE/dt) / ε₀
+Answer: C) Id = ε₀ * (dΦE/dt)
+<end>
+
+
+
+
+71<start>
+Question: An elevator of mass 500 kg is lowered 10 m to the ground. If the elevator starts and ends at rest, how much heat energy must be dissipated by the brakes to stop the elevator?
+Options: 
+A) 49000 J
+B) 50000 J
+C) 51000 J
+D) 4900 J
+Answer: B) 50000 J
+<end>
+
+
+
+
+72<start>
+Question: A galaxy is moving away from an observer at a velocity of 0.2c. If the rest wavelength of a spectral line is 500 nm, what is the shifted wavelength?
+Options: 
+A) 541.96 nm
+B) 500 nm
+C) 458.04 nm
+D) 541.7 nm
+Answer: A
+<end>
+
+
+
+
+73<start>
+Question: An object of mass 5 kg is moving with an initial velocity of 2 m/s and accelerates uniformly to a final velocity of 6 m/s. What is the net work done on the object?
+Options: 
+A) 20 J
+B) 40 J
+C) 50 J
+D) 60 J
+Answer: A
+<end>
+
+
+
+
+74<start>
+Question: Two spaceships are moving in opposite directions, each with a velocity v relative to an observer on Earth. If the proper length of an object on one spaceship is 1 m, what is the velocity of each spaceship if the contracted length is 0.6 m?
+Options: 
+A) v = 0.4c
+B) v = 0.5c
+C) v = 0.6c
+D) v = 0.8c
+Answer: B
+<end>
+
+
+
+
+75<start>
+Question: An elevator of mass 500 kg falls from a height of 20 m and its potential energy is converted to heat energy by the brakes. What is the heat energy dissipated by the brakes?
+Options: 
+A) 5000 J
+B) 10000 J
+C) 98000 J
+D) 196000 J
+Answer: B) 10000 J
+<end>
+
+
+
+
+76<start>
+Question: What is the relationship between the mean kinetic energy of conduction electrons and the Fermi energy in a metal?
+Options: A) KE = (1/5)Ef, B) KE = (3/5)Ef, C) KE = (2/3)Ef, D) KE = Ef
+Answer: B) KE = (3/5)Ef
+<end>
+
+
+
+
+77<start>
+Question: An object of mass 5 kg is moving with an initial velocity of 2 m/s and accelerates uniformly to a final velocity of 6 m/s. What is the net work done on the object?
+Options: 
+A) 20 J
+B) 40 J
+C) 50 J
+D) 60 J
+Answer: A
+<end>
+
+
+
+
+78<start>
+Question: What is the relationship between the potential difference and the frequency of the incident light in the photoelectric effect?
+Options: A) V = (h/e)f - φ/e, B) V = (e/h)f + φ/e, C) V = (h/e)f + φ/e, D) V = (e/h)f - φ/e
+Answer: A
+<end>
+
+
+
+
+79<start>
+Question: If the work done on the second spring is twice the work done on the first spring, and the second spring is stretched half the distance of the first spring, what is the relationship between the force constant of the second spring (k') and the force constant of the first spring (k)?
+Options: k' = 2k, k' = 4k, k' = 8k, k' = 16k
+Answer: k' = 8k
+<end>
+
+
+
+
+80<start>
+Question: Two observers, one moving at 0.8c relative to the other, are trying to synchronize their clocks. If one observer measures a time interval of 1 second, what time interval will the other observer measure, given that they are 1 light-second apart?
+Options: 
+A) 0.6 seconds
+B) 1.67 seconds
+C) 1 second
+D) 0.2 seconds
+Answer: B) 1.67 seconds
+<end>
+
+
+
+
+81<start>
+Question: What is the relationship between the wavelength at which the thermal spectrum reaches a maximum and the temperature of the body according to Wien's displacement law?
+Options: A) λ_max is directly proportional to T, B) λ_max is inversely proportional to T, C) λ_max is proportional to the square of T, D) λ_max is proportional to the square root of T
+Answer: B) λ_max is inversely proportional to T
+<end>
+
+
+
+
+82<start>
+Question: What is the change in orbital angular momentum quantum number during an allowed electronic transition in an atom?
+Options: 
+A) Δl = 0 
+B) Δl = ±1 
+C) Δl = ±2 
+D) Δl = ±3
+Answer: B
+<end>
+
+
+
+
+83<start>
+Question: If the orbital angular momentum quantum number \(l\) is 2, how many values can the magnetic quantum number \(m_l\) take?
+Options: 3, 5, 2, 1
+Answer: 5
+<end>
+
+
+
+
+84<start>
+Question: What is the frequency of the echo heard by the driver when the speed of sound is 350 m/s, the speed of the receiver is 3.5 m/s, the speed of the source is 3.5 m/s, and the original frequency of the siren is 600 Hz?
+Options: 
+A) 603.26 Hz
+B) 606.32 Hz
+C) 612.5 Hz
+D) 615.38 Hz
+Answer: A
+<end>
+
+
+
+
+85<start>
+Question: What is the relationship between the wavelength of a particle and the atomic number of an atom?
+Options: 
+A) λ ∝ Z 
+B) λ ∝ 1/Z 
+C) 1/λ ∝ Z 
+D) 1/λ ∝ Z^2
+Answer: D
+<end>
+
+
+
+
+86<start>
+Question: A photon with an energy of 5.0 MeV interacts with a nucleus to create an electron-positron pair. What is the minimum kinetic energy the pair can have if the rest mass energy of an electron is 0.511 MeV and that of a positron is the same?
+Options: 
+A) 3.978 MeV
+B) 4.0 MeV
+C) 4.978 MeV
+D) 5.022 MeV
+Answer: A
+<end>
+
+
+
+
+87<start>
+Question: What type of transition is involved in the operation of a gas laser?
+Options: A) Transitions in semiconductor materials, B) Transitions in organic dyes, C) Transitions between energy levels of free atoms, D) Transitions of free electrons
+Answer: C) Transitions between energy levels of free atoms
+<end>
+
+
+
+
+88<start>
+Question: Two polarizers are aligned with their transmission axes at an angle of 30° to each other. If the incident intensity of light is 1000 W/m², what is the transmitted intensity?
+Options: 250 W/m², 500 W/m², 750 W/m², 1000 W/m²
+Answer: 750 W/m²
+<end>
+
+
+
+
+89<start>
+Question: What is the frequency at which sound first disappears at a specified angle of 45° for a slit width of 0.14 m, given the speed of sound is 350 m/s and the diffraction pattern order is 1?
+Options: 
+A) 1757.9 Hz
+B) 2500 Hz
+C) 892.9 Hz
+D) 1250 Hz
+Answer: A
+<end>
+
+
+
+
+90<start>
+Question: What is the relationship between the wavelength of a particle and the atomic number of an atom?
+Options: 
+A) λ ∝ Z 
+B) λ ∝ 1/Z 
+C) 1/λ ∝ Z 
+D) 1/λ ∝ Z^2
+Answer: D
+<end>
+
+
+
+
+91<start>
+Question: A solid disk rolls without slipping on a horizontal surface. What fraction of its total kinetic energy is rotational kinetic energy?
+Options: 1/2, 1/3, 2/3, 1
+Answer: 1/3
+<end>
+
+
+
+
+92<start>
+Question: What is the speed of light in a dielectric material with a dielectric constant of 4, given that the speed of light in vacuum is approximately 3.0 * 10^8 m/s?
+Options: 
+A) 1.5 * 10^8 m/s
+B) 2.0 * 10^8 m/s
+C) 2.5 * 10^8 m/s
+D) 3.5 * 10^8 m/s
+Answer: A)
+<end>
+
+
+
+
+93<start>
+Question: Two capacitors with capacitances 2 μF and 4 μF are connected in series to a 12V battery. What is the total energy stored in the capacitors?
+Options: 
+A) 36 μJ
+B) 48 μJ
+C) 64 μJ
+D) 72 μJ
+Answer: A
+<end>
+
+
+
+
+94<start>
+Question: What is the relationship between the kinetic energy of electrons and their de Broglie wavelength in the context of electron diffraction in a crystal?
+Options: 
+A) λ = h / √(2mK)
+B) λ = h * √(2mK)
+C) λ = h + √(2mK)
+D) λ = h - √(2mK)
+Answer: A
+<end>
+
+
+
+
+95<start>
+Question: What is the angular momentum of a satellite with a mass of 1000 kg, orbiting the Earth at a radius of 7000 km, given the mass of the Earth is 6 * 10^24 kg and the gravitational constant is 6.67 * 10^-11 N*m^2/kg^2?
+Options: A) 2.94 * 10^12 kg*m^2/s, B) 3.32 * 10^10 kg*m^2/s, C) 1.33 * 10^14 kg*m^2/s, D) 1.47 * 10^11 kg*m^2/s
+Answer: A)
+<end>
+
+
+
+
+96<start>
+Question: An object is thrown horizontally and hits the ground after 2 seconds. What is the height from which it was thrown?
+Options: A) 9.8 m, B) 19.6 m, C) 29.4 m, D) 39.2 m
+Answer: B) 19.6 m
+<end>
+
+
+
+
+97<start>
+Question: A particle with mass 2m and velocity v collides with another particle and they stick together, forming a single particle with mass 3m and velocity v' = (2/3) * v. What fraction of the initial kinetic energy is lost in the collision?
+Options: 
+A) 1/9 
+B) 2/9 
+C) 1/3 
+D) 5/9
+Answer: B
+<end>
+
+
+
+
+98<start>
+Question: A thin film of oil with a refractive index of 1.5 and a thickness of 500 nm is placed on water. What is the condition for constructive interference to occur in the reflected light?
+Options: 
+A) 2n(500 nm) = (m + 1/2)λ
+B) 2n(500 nm) = mλ
+C) 2(500 nm) = mλ
+D) n(500 nm) = mλ
+Answer: B) 2n(500 nm) = mλ
+<end>
+
+
+
+
+99<start>
+Question: What is the mass of a particle with a charge twice that of an electron, in a uniform magnetic field of 1 Tesla, and a cyclotron frequency of 10 MHz?
+Options: 
+A) m = eB / (πf)
+B) m = 2eB / (2πf)
+C) m = eB / (2πf)
+D) m = 2eB / (πf)
+Answer: B
+<end>
+
+
+
+
+100<start>
+Question: A payload is released from a plane with an initial horizontal velocity of 100 m/s north. If the payload is subject to gravity's acceleration of 9.8 m/s², what is the overall velocity of the payload after 4.0 seconds?
+Options: 
+A: 196.0 m/s 
+B: 40.0 m/s 
+C: 100.0 m/s 
+D: 49.0 m/s
+Answer: A
+<end>
+
+
+
+
+101<start>
+Question: What is the energy of the photon emitted when an electron in positronium transitions from the n = 3 level to the n = 1 level?
+Options: 
+A) -4.05 eV
+B) 4.05 eV
+C) 6.8 eV
+D) 13.6 eV
+Answer: B) 4.05 eV
+<end>
+
+
+
+
+102<start>
+Question: What is the relationship between the orbital period of a satellite and the radius of its orbit around a central body of mass?
+Options: A) T² = (4π²/G) * (R³/M), B) T² = (G/M) * (R³/4π²), C) T² = (G*M) * (R/4π²), D) T² = (4π²*G) * (R/M)
+Answer: A) T² = (4π²/G) * (R³/M)
+<end>
+
+
+
+

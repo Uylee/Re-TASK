@@ -1,0 +1,1396 @@
+1<start>
+Question: What strategy can be used to control a mosquito population based on the logistic growth curve model?
+Options: A) Increase birth rate, B) Reduce carrying capacity, C) Ignore migration, D) Enhance death rate
+Answer: B) Reduce carrying capacity
+<end>
+
+
+
+
+2<start>
+Question: What happens to the genetic code when a frameshift mutation occurs due to an insertion or deletion of nucleotides?
+Options: 
+A) The reading frame remains the same, resulting in the synthesis of the same protein.
+B) The reading frame is altered, resulting in the synthesis of a completely different protein or a nonfunctional protein.
+C) The genetic code is not affected, and the protein sequence remains unchanged.
+D) The insertion or deletion of nucleotides only affects the point mutations in the gene.
+Answer: B
+<end>
+
+
+
+
+3<start>
+Question: What is the primary function of the amnion in terrestrial vertebrates?
+Options: A) to store waste, B) to provide nutrients, C) to produce a fluid-filled cavity for protection, D) to aid in gas exchange
+Answer: C) to produce a fluid-filled cavity for protection
+<end>
+
+
+
+
+4<start>
+Question: What is the primary mechanism by which calcium ions are released into the cytoplasm in cellular signaling pathways?
+Options: A) Binding of cyclic AMP to its receptor, B) Phospholipase C pathway producing IP3, C) Direct action of prostaglandins, D) Calmodulin binding to calcium ions
+Answer: B) Phospholipase C pathway producing IP3
+<end>
+
+
+
+
+5<start>
+Question: What is the process used to synthesize an RNA/DNA hybrid from a single-stranded RNA template?
+Options: A) Transcription, B) Reverse transcription, C) Translation, D) Replication
+Answer: B) Reverse transcription
+<end>
+
+
+
+
+6<start>
+Question: What conditions must be met for the Hardy-Weinberg law to be applied to a population?
+Options: A) Gene flow and mutation, B) Large population size and natural selection, C) No gene flow, large population size, no mutation, no natural selection, and random mating, D) Random mating and small population size
+Answer: C) No gene flow, large population size, no mutation, no natural selection, and random mating
+<end>
+
+
+
+
+7<start>
+Question: What is the main characteristic of the Barr body in female mammalian cells?
+Options: A) Active and less compact, B) Inactive and more compact, C) Functional gene, D) Non-functional gene
+Answer: B) Inactive and more compact
+<end>
+
+
+
+
+8<start>
+Question: What process contributes to increasing atmospheric carbon levels?
+Options: A) Photosynthesis, B) Respiration, C) Decomposition, D) Combustion of fossil fuels
+Answer: B, C, D
+<end>
+
+
+
+
+9<start>
+Question: What is the main difference between punctuated equilibrium and gradualism in evolutionary theory?
+Options: A) Punctuated equilibrium proposes gradual and continuous change, while gradualism proposes rapid speciation events. B) Punctuated equilibrium describes rapid speciation events, while gradualism proposes gradual and continuous change. C) Punctuated equilibrium occurs over short periods, while gradualism occurs over long periods. D) Punctuated equilibrium is influenced by genetic variation, while gradualism is influenced by environmental factors.
+Answer: B) Punctuated equilibrium describes rapid speciation events, while gradualism proposes gradual and continuous change.
+<end>
+
+
+
+
+10<start>
+Question: What is the primary mechanism by which the influenza virus utilizes the host cell to replicate its genetic material and synthesize viral proteins?
+Options: A) The virus uses its own machinery for transcription and translation, B) The host cell's machinery is bypassed for viral replication, C) The virus hijacks the host cell's machinery for transcription and translation, D) The viral genome is replicated without the need for host cell machinery
+Answer: C) The virus hijacks the host cell's machinery for transcription and translation
+<end>
+
+
+
+
+11<start>
+Question: What type of cleavage occurs when cell divisions happen at an oblique angle to the polar axis?
+Options: A) Radial cleavage, B) Spiral cleavage, C) Meroblastic cleavage, D) Superficial cleavage
+Answer: B) Spiral cleavage
+<end>
+
+
+
+
+12<start>
+Question: How do cells ensure that proteins are delivered to their correct destinations within or outside the cell?
+Options: A) Through the use of signal peptides, B) By random chance, C) Through the use of hormones, D) By the protein's size and shape
+Answer: A) Through the use of signal peptides
+<end>
+
+
+
+
+13<start>
+Question: What happens to the hare population when a parasite, such as the mange mite, affects the red fox population?
+Options: A) The hare population decreases, B) The hare population remains unchanged, C) The hare population increases, D) The hare population becomes extinct
+Answer: C) The hare population increases
+<end>
+
+
+
+
+14<start>
+Question: What are the main components of the cell nucleus and their functions?
+Options: 
+A) DNA for energy production, proteins for cell signaling, and RNA for cell division
+B) DNA for genetic material, proteins like histones for DNA packaging, and RNA for transcription and regulation
+C) DNA for cell signaling, proteins like histones for energy production, and RNA for DNA packaging
+D) DNA for transcription, proteins like histones for cell division, and RNA for genetic material
+Answer: B
+<end>
+
+
+
+
+15<start>
+Question: What does the presence of similar proteins, such as TBP and TFIIB, in Archaea and Eukarya but not in Bacteria, suggest about their evolutionary history?
+Options: A) A more recent common ancestor between Archaea and Bacteria, B) A more recent common ancestor between Archaea and Eukarya, C) No shared evolutionary history between the three domains, D) Convergent evolution of similar proteins in Archaea and Eukarya
+Answer: B) A more recent common ancestor between Archaea and Eukarya
+<end>
+
+
+
+
+16<start>
+Question: What mechanism prevents polyspermy in sea urchin oocytes?
+Options: A) Release of acrosomal enzymes, B) Cortical reaction and alteration of the vitelline envelope, C) Sperm competition, D) Egg membrane depolarization
+Answer: B) Cortical reaction and alteration of the vitelline envelope
+<end>
+
+
+
+
+17<start>
+Question: What is the primary benefit that mycorrhizal fungi provide to plants in nutrient-poor soils?
+Options: A) Production of carbohydrates, B) Increased protection against pathogens, C) Enhanced absorption of phosphorus and other nutrients, D) Reduction of drought stress
+Answer: C) Enhanced absorption of phosphorus and other nutrients
+<end>
+
+
+
+
+18<start>
+Question: What factors contribute to the development of a bird's song?
+Options: A) Only genetic predisposition, B) Only learning from other birds, C) A combination of genetic predisposition and learning from other birds, D) Neither genetic predisposition nor learning from other birds
+Answer: C
+<end>
+
+
+
+
+19<start>
+Question: What is the primary mechanism by which retrotransposons contribute to genetic diversity in an organism?
+Options: A) DNA mutation, B) RNA replication and integration, C) Gene deletion, D) Chromosomal rearrangement
+Answer: B) RNA replication and integration
+<end>
+
+
+
+
+20<start>
+Question: Which biome is likely to have the highest rate of leaching and cycling of nutrients?
+Options: A) Desert, B) Tundra, C) Taiga, D) Tropical rain forest
+Answer: D) Tropical rain forest
+<end>
+
+
+
+
+21<start>
+Question: How do enzymes increase the rate of chemical reactions?
+Options: 
+A) By increasing the activation energy required for a reaction to occur
+B) By lowering the activation energy required for a reaction to occur
+C) By altering the equilibrium constant of a reaction
+D) By being consumed in the process of the reaction
+Answer: B
+<end>
+
+
+
+
+22<start>
+Question: What happens to a population when the number of births equals the number of deaths?
+Options: A) The population increases, B) The population decreases, C) The population remains unchanged, D) The population becomes extinct
+Answer: C
+<end>
+
+
+
+
+23<start>
+Question: What is the main factor in determining whether the wings of bats and butterflies are homologous or analogous structures?
+Options: A) Their ability to fly, B) Their common evolutionary origin, C) Their different developmental pathways, D) Their similar composition
+Answer: B) Their common evolutionary origin
+<end>
+
+
+
+
+24<start>
+Question: What is the primary function of parenchyma cells in the pith tissue of a dicot stem?
+Options: A) To provide structural support, B) To transport water and nutrients, C) To perform functions like storage, photosynthesis, and secretion, D) To produce secondary xylem and phloem cells
+Answer: C) To perform functions like storage, photosynthesis, and secretion
+<end>
+
+
+
+
+25<start>
+Question: What type of genetic element is capable of moving within a genome and inserting itself into new locations?
+Options: A) Prion, B) Cistron, C) Intron, D) Transposon
+Answer: D) Transposon
+<end>
+
+
+
+
+26<start>
+Question: What is the role of pioneer species in ecological succession?
+Options: A) To destroy the existing community, B) To colonize and modify the environment for other species, C) To prevent the growth of new species, D) To maintain the existing community structure
+Answer: B) To colonize and modify the environment for other species
+<end>
+
+
+
+
+27<start>
+Question: Why do host bird species continue to rear cuckoo fledglings despite the costs?
+Options: 
+A) Because the cuckoo fledglings provide benefits such as protection from predators
+B) Because the genes allowing this behavior remain in the gene pool due to the benefits outweighing the costs
+C) Because the host birds are unable to distinguish between their own young and the cuckoo fledglings
+D) Because the cuckoo fledglings are more likely to survive and reproduce than the host bird's own young
+Answer: B
+<end>
+
+
+
+
+28<start>
+Question: Which component does not directly contribute to cell motility in cultured fibroblasts?
+Options: A) Vinculin, B) Lamellipodia, C) Adhesion plaques, D) Clathrin
+Answer: D) Clathrin
+<end>
+
+
+
+
+29<start>
+Question: What condition must be met for an altruistic trait to evolve according to Hamilton's rule?
+Options: 
+A) c > br
+B) c < br
+C) c = br
+D) c + br
+Answer: B
+<end>
+
+
+
+
+30<start>
+Question: What adaptations do xerophytes have to minimize water loss in high-temperature environments?
+Options: A) Increased leaf surface area, thin cuticles, and more stomata, B) Reduced leaf surface area, thick cuticles, and fewer stomata, C) Enhanced root system, thin cuticles, and more stomata, D) Increased transpiration rate, thin cuticles, and more stomata
+Answer: B) Reduced leaf surface area, thick cuticles, and fewer stomata
+<end>
+
+
+
+
+31<start>
+Question: What are the main components of connective tissue?
+Options: A) Only cells, B) Only fibers, C) Cells, fibers, and ground substance, D) Only ground substance
+Answer: C) Cells, fibers, and ground substance
+<end>
+
+
+
+
+32<start>
+Question: What is the mechanism by which females compensate for the difference in gene dosage between the sexes due to the presence of two X chromosomes?
+Options: A) Mitosis, B) Meiosis, C) X-chromosome inactivation, D) Gene mutation
+Answer: C) X-chromosome inactivation
+<end>
+
+
+
+
+33<start>
+Question: What is the difference between the fundamental niche and the realistic niche of a species?
+Options: 
+A) Fundamental niche is smaller than realistic niche
+B) Fundamental niche is the actual range of resources used by a species
+C) Fundamental niche refers to the full range of resources a species can use without competition, while realistic niche considers competition and predation
+D) Realistic niche is the full range of resources a species can use without competition
+Answer: C
+<end>
+
+
+
+
+34<start>
+Question: What is a characteristic of R-selected species that allows them to thrive in unstable environments?
+Options: A) High competitive ability, B) Large body size, C) High reproductive rate, D) Specialized diet
+Answer: C) High reproductive rate
+<end>
+
+
+
+
+35<start>
+Question: What is the complementary DNA strand for the given sequence 5′ CGA TTG 3′?
+Options: A) 5′ CGA TTG 3′, B) 5′ GCT AAC 3′, C) 5′ ATC GAA 3′, D) 5′ TCG AAT 3′
+Answer: B) 5′ GCT AAC 3′
+<end>
+
+
+
+
+36<start>
+Question: What is the main difference between the sporophyte and gametophyte generations in the life cycle of ferns?
+Options: 
+A) The sporophyte is haploid and produces gametes, while the gametophyte is diploid and produces spores.
+B) The sporophyte is diploid and produces spores, while the gametophyte is haploid and produces gametes.
+C) The sporophyte and gametophyte are both diploid and produce spores.
+D) The sporophyte and gametophyte are both haploid and produce gametes.
+Answer: B
+<end>
+
+
+
+
+37<start>
+Question: What happens to the H zone during muscle contraction?
+Options: A) It lengthens, B) It shortens, C) It remains the same, D) It disappears
+Answer: B) It shortens
+<end>
+
+
+
+
+38<start>
+Question: How can an experiment be designed to test the hypothesis that ants defend plants by killing or chasing away leaf-feeding insects?
+Options: A) Observe ants and plants in their natural habitat, B) Manipulate the presence of ants and compare outcomes between a control and treatment group, C) Measure leaf damage without considering the presence of ants, D) Only consider the presence of leaf-feeding insects
+Answer: B) Manipulate the presence of ants and compare outcomes between a control and treatment group
+<end>
+
+
+
+
+39<start>
+Question: What is the main characteristic of arthropod vision that allows them to detect movement and have a wide field of vision?
+Options: A) Simple eyes, B) Compound eyes made up of multiple ommatidia, C) Highly developed binocular vision, D) Ability to see in low light conditions
+Answer: B) Compound eyes made up of multiple ommatidia
+<end>
+
+
+
+
+40<start>
+Question: What is the relationship between embryonic development and evolutionary history in vertebrates?
+Options: A) Embryonic development is unique to each species, B) Embryonic development is influenced by environmental factors, C) Embryonic development reflects the evolutionary history of a species, D) Embryonic development is unrelated to evolutionary history
+Answer: C) Embryonic development reflects the evolutionary history of a species
+<end>
+
+
+
+
+41<start>
+Question: What is the correct sequence of tissues from the center to the outside in a 5-year-old wood twig?
+Options: A) pith, primary phloem, primary xylem, secondary xylem, secondary phloem, cortex, B) pith, primary xylem, secondary xylem, primary phloem, secondary phloem, cortex, C) cortex, secondary phloem, primary phloem, secondary xylem, primary xylem, pith, D) pith, secondary xylem, primary xylem, secondary phloem, primary phloem, cortex
+Answer: B) pith, primary xylem, secondary xylem, primary phloem, secondary phloem, cortex
+<end>
+
+
+
+
+42<start>
+Question: How does centrifugation separate cellular components?
+Options: A) Based on their charge, B) Based on their size and density, C) Based on their shape, D) Based on their function
+Answer: B) Based on their size and density
+<end>
+
+
+
+
+43<start>
+Question: What factors affect the rate of diffusion of a gas according to Fick's Law of Diffusion?
+Options: A) Surface area, partial pressure gradient, and temperature, B) Surface area, partial pressure gradient, solubility, and thickness of the barrier, C) Partial pressure gradient, solubility, and thickness of the barrier, D) Surface area, temperature, and solubility
+Answer: B) Surface area, partial pressure gradient, solubility, and thickness of the barrier
+<end>
+
+
+
+
+44<start>
+Question: What structure in woody stems is primarily responsible for facilitating gas exchange, including oxygen intake and carbon dioxide release?
+Options: A) Terminal buds, B) Nodes and internodes, C) Lenticels, D) Thick protective bark
+Answer: C) Lenticels
+<end>
+
+
+
+
+45<start>
+Question: Which of the following traits is less directly influenced by the selective pressure of natural enemies?
+Options: A) Aposematic coloration, B) Chemical defenses, C) Masting, D) Lekking behavior
+Answer: D) Lekking behavior
+<end>
+
+
+
+
+46<start>
+Question: What happens to introns during RNA splicing in eukaryotes?
+Options: A) They are translated into polypeptides, B) They are preserved in the mature RNA molecule, C) They are excised from the primary transcript, D) They are added to the 5' cap
+Answer: C) They are excised from the primary transcript
+<end>
+
+
+
+
+47<start>
+Question: What happens to blood pH when a person hyperventilates?
+Options: A) It decreases, B) It remains the same, C) It increases, D) It becomes more acidic
+Answer: C) It increases
+<end>
+
+
+
+
+48<start>
+Question: What is the correct order of structures that an egg or embryo would pass through in the female reproductive system?
+Options: 
+A) Ovary, uterus, oviduct, vagina
+B) Ovary, oviduct, uterus, vagina
+C) Uterus, oviduct, ovary, vagina
+D) Vagina, uterus, oviduct, ovary
+Answer: B
+<end>
+
+
+
+
+49<start>
+Question: Which marine ecosystem region is most closely associated with penetrance of solar radiation and supports a rich biodiversity due to photosynthesis?
+Options: A) Bathyl zone, B) Neritic zone, C) Pelagic zone, D) Benthic zone
+Answer: B) Neritic zone
+<end>
+
+
+
+
+50<start>
+Question: What is the primary cause of Xeroderma pigmentosum?
+Options: A) Mutations in DNA replication genes, B) Mutations in DNA repair genes, C) Mutations in DNA transcription genes, D) Mutations in DNA translation genes
+Answer: B) Mutations in DNA repair genes
+<end>
+
+
+
+
+51<start>
+Question: What is the primary mechanism by which chemosynthetic bacteria generate energy?
+Options: A) By absorbing photons from sunlight, B) By oxidizing organic compounds, C) By oxidizing inorganic substances, D) By photosynthesizing CO2 and H2O
+Answer: C) By oxidizing inorganic substances
+<end>
+
+
+
+
+52<start>
+Question: What is the primary function of intracellular messengers in cellular processes?
+Options: A) To receive signals from target molecules, B) To transmit and amplify signals from first messengers, C) To release calcium from extracellular stores, D) To inhibit signaling pathways
+Answer: B) To transmit and amplify signals from first messengers
+<end>
+
+
+
+
+53<start>
+Question: What is the primary function of the suspensor in plant embryogenesis?
+Options: A) To give rise to the embryo proper, B) To nourish the embryo, C) To form the root apical meristem, D) To establish the shoot apical meristem
+Answer: B) To nourish the embryo
+<end>
+
+
+
+
+54<start>
+Question: What is the role of ZP3 in the fertilization process?
+Options: 
+A) To prevent the acrosomal reaction
+B) To initiate the acrosomal reaction by binding to specific receptors on sperm
+C) To break down the zona pellucida
+D) To occupy the receptors on the egg
+Answer: B
+<end>
+
+
+
+
+55<start>
+Question: What is the effect of random mating on linkage disequilibrium in a population?
+Options: A) Increases linkage disequilibrium, B) Decreases linkage disequilibrium, C) Has no effect on linkage disequilibrium, D) Depends on the presence of modifier genes
+Answer: B) Decreases linkage disequilibrium
+<end>
+
+
+
+
+56<start>
+Question: What is the role of the gray crescent in amphibian embryo development?
+Options: A) It determines the left-right axis, B) It influences cell fate and patterning for the dorsal-ventral axis, C) It is involved in the formation of the nervous system, D) It determines the anterior-posterior axis
+Answer: B) It influences cell fate and patterning for the dorsal-ventral axis
+<end>
+
+
+
+
+57<start>
+Question: What is the effect of cytochalasin B on microfilaments in the context of neuronal growth and development?
+Options: A) It enhances microfilament polymerization, B) It disrupts microtubule polymerization, C) It disrupts microfilament polymerization, D) It has no effect on microfilaments
+Answer: C) It disrupts microfilament polymerization
+<end>
+
+
+
+
+58<start>
+Question: What is the main difference between monoclonal and polyclonal antisera?
+Options: 
+A) Monoclonal antisera recognize different epitopes, while polyclonal antisera recognize the same epitope.
+B) Monoclonal antisera are derived from multiple clones of B lymphocytes, while polyclonal antisera are derived from a single clone.
+C) Monoclonal antisera are derived from a single clone of B lymphocytes, while polyclonal antisera are derived from multiple clones.
+D) Monoclonal antisera are used for therapy, while polyclonal antisera are used for diagnosis.
+Answer: C
+<end>
+
+
+
+
+59<start>
+Question: What respiratory system is used by simple-bodied animals like Trematoda, or flatworms, for gas exchange?
+Options: A) Supplementary gas exchange organs, B) Diffusion, C) Advanced lung tissue, D) Gills
+Answer: B) Diffusion
+<end>
+
+
+
+
+60<start>
+Question: What is the most important factor for a species to become cosmopolitan in distribution?
+Options: A) High metabolic rate, B) Strong dispersal abilities and adaptability, C) Large body size, D) Specialized diet
+Answer: B) Strong dispersal abilities and adaptability
+<end>
+
+
+
+
+61<start>
+Question: What is the most fundamental component necessary for the earliest cells to exist and function?
+Options: A) Nucleus, B) Mitochondria, C) Plasma membrane, D) Flagellum
+Answer: C) Plasma membrane
+<end>
+
+
+
+
+62<start>
+Question: What significant event in 1859 contributed to the development of biological thought?
+Options: A) Discovery of DNA structure, B) Publication of On the Origin of Species, C) Development of cell theory, D) Classification of prokaryotes
+Answer: B) Publication of On the Origin of Species
+<end>
+
+
+
+
+63<start>
+Question: What is the primary way fungi obtain nutrients?
+Options: A) Through photosynthesis, B) By decomposing organic material or forming symbiotic relationships, C) By consuming other organisms, D) By producing their own food
+Answer: B) By decomposing organic material or forming symbiotic relationships
+<end>
+
+
+
+
+64<start>
+Question: What is the minimum number of membranes a protein must cross to reach the lumen of the thylakoid from the cytoplasm?
+Options: A) 2, B) 3, C) 4, D) 5
+Answer: C) 4
+<end>
+
+
+
+
+65<start>
+Question: What happens to blood pressure when blood is transferred from the venous system to the arterial system during the cardiac cycle?
+Options: 
+A) The pressure in the arterial system decreases significantly, while the pressure in the venous system increases slightly.
+B) The pressure in the arterial system increases more significantly, while the pressure in the venous system decreases slightly.
+C) The pressure in both the arterial and venous systems remains relatively constant.
+D) The pressure in the venous system increases significantly, while the pressure in the arterial system decreases slightly.
+Answer: B
+<end>
+
+
+
+
+66<start>
+Question: What is the primary function of the Golgi apparatus in eukaryotic cells?
+Options: A) Protein synthesis, B) Cell division, C) Protein modification and glycosylation, D) DNA replication
+Answer: C) Protein modification and glycosylation
+<end>
+
+
+
+
+67<start>
+Question: What is the primary function of the Casparian strip in the endodermis of a plant root?
+Options: A) To facilitate apoplastic movement of water, B) To prevent water from entering the plant, C) To force water and solutes to pass through the cytoplasm of endodermal cells, D) To regulate the movement of substances out of the plant
+Answer: C) To force water and solutes to pass through the cytoplasm of endodermal cells
+<end>
+
+
+
+
+68<start>
+Question: Which plant cell type undergoes programmed cell death to form a functional, hollow structure for transport?
+Options: A) Phloem sieve tube member, B) Stomatal guard cell, C) Root cap cell, D) Xylem vessel member
+Answer: D
+<end>
+
+
+
+
+69<start>
+Question: What is the main difference in the reproductive structures of angiosperms and gymnosperms?
+Options: A) Presence of roots, B) Type of photosynthesis, C) Presence of flowers and cones, D) Number of leaves
+Answer: C) Presence of flowers and cones
+<end>
+
+
+
+
+70<start>
+Question: How can we determine if cliff nesting is adaptive in a goose species?
+Options: A) By comparing the reproductive success of geese nesting on cliffs versus beaches, B) By counting the number of geese nesting on cliffs, C) By measuring the height of the cliffs, D) By observing the behavior of the geese
+Answer: A) By comparing the reproductive success of geese nesting on cliffs versus beaches
+<end>
+
+
+
+
+71<start>
+Question: Which class of immunoglobulin is primarily responsible for triggering allergic reactions and is characterized by its epsilon heavy chain?
+Options: IgA, IgD, IgE, IgM
+Answer: IgE
+<end>
+
+
+
+
+72<start>
+Question: What type of cell junction would allow the transfer of a fluorescent molecule with a size of 1,000 daltons between adjacent cells?
+Options: A) Spot desmosomes, B) Tight junctions, C) Gap junctions, D) Belt desmosomes
+Answer: C) Gap junctions
+<end>
+
+
+
+
+73<start>
+Question: What is the main difference in the circulatory system between annelids and arthropods?
+Options: A) Annelids have an open circulatory system, while arthropods have a closed circulatory system, B) Annelids have a closed circulatory system, while arthropods have an open circulatory system, C) Both annelids and arthropods have a closed circulatory system, D) Both annelids and arthropods have an open circulatory system
+Answer: B) Annelids have a closed circulatory system, while arthropods have an open circulatory system
+<end>
+
+
+
+
+74<start>
+Question: What is the estimated fraction of the human genome that encodes proteins?
+Options: A) 50%, B) 10%, C) 1-2%, D) 90%
+Answer: C) 1-2%
+<end>
+
+
+
+
+75<start>
+Question: What physical property of a medium is calculated as mass per volume and relates to its ability to provide physical support?
+Options: A) Viscosity, B) Density, C) Thermal inertia, D) Oxygen concentration
+Answer: B) Density
+<end>
+
+
+
+
+76<start>
+Question: What characteristic distinguishes Protista from other eukaryotic cells?
+Options: A) Presence of true tissues, B) Absence of cell walls, C) Ability to photosynthesize, D) Presence of peptidoglycan in cell walls
+Answer: B) Absence of cell walls
+<end>
+
+
+
+
+77<start>
+Question: What is the primary site of attachment for the mitotic spindle to the chromosome during cell division?
+Options: A) Centriole, B) Chromomeres, C) Kinetochore, D) Microtubules
+Answer: C) Kinetochore
+<end>
+
+
+
+
+78<start>
+Question: What type of tropism is a plant exhibiting when it grows along a trellis?
+Options: A) Phototropism, B) Gravitropism, C) Thigmotropism, D) Negative Gravitropism
+Answer: C) Thigmotropism
+<end>
+
+
+
+
+79<start>
+Question: What happens to enzyme activity when the pH of its environment changes?
+Options: A) It remains constant, B) It increases indefinitely, C) It decreases outside of an optimal pH range, D) It becomes inactive at all pH levels
+Answer: C) It decreases outside of an optimal pH range
+<end>
+
+
+
+
+80<start>
+Question: What is the expected phenotypic ratio of the offspring from a cross between a tall violet plant (DDWw) and a dwarf white plant (ddww)?
+Options: 
+A) 1:1:1:1 tall violet : tall white : dwarf violet : dwarf white
+B) 3:1 tall violet : dwarf white
+C) 9:3:3:1 tall violet : tall white : dwarf violet : dwarf white
+D) 1:1 tall violet : dwarf white
+Answer: C
+<end>
+
+
+
+
+81<start>
+Question: What is the main difference in growth patterns between cancer cells and normal cells in culture?
+Options: 
+A) Cancer cells require attachment to a surface for growth, while normal cells can grow without attachment.
+B) Cancer cells display contact inhibition, while normal cells do not.
+C) Cancer cells can divide indefinitely and grow to high densities, while normal cells have limited division potential and proliferate to lower densities.
+D) Normal cells can grow without attachment to a surface, while cancer cells require attachment.
+Answer: C
+<end>
+
+
+
+
+82<start>
+Question: What technique is used to study the interaction between proteins and DNA by observing the shift in mobility of DNA fragments when bound by proteins?
+Options: A) Western blot, B) Northern blot, C) Southern blot, D) Electrophoretic mobility shift assay (EMSA)
+Answer: D) Electrophoretic mobility shift assay (EMSA)
+<end>
+
+
+
+
+83<start>
+Question: What is the primary function of parathyroid hormone in the human body?
+Options: 
+A) To regulate blood sugar levels
+B) To maintain serum calcium levels within a narrow range
+C) To control blood pressure
+D) To stimulate muscle growth
+Answer: B) To maintain serum calcium levels within a narrow range
+<end>
+
+
+
+
+84<start>
+Question: What is the key concept shared by the urea cycle and the citric acid cycle in terms of intermediate molecules?
+Options: A) Production of ATP, B) Regeneration of key intermediates for reuse, C) Synthesis of amino acids, D) Breakdown of carbohydrates
+Answer: B) Regeneration of key intermediates for reuse
+<end>
+
+
+
+
+85<start>
+Question: What is unique about the fertilization process in angiosperms?
+Options: A) Single fertilization, B) Double fertilization, C) Triple fertilization, D) No fertilization
+Answer: B) Double fertilization
+<end>
+
+
+
+
+86<start>
+Question: What is the primary goal of homeostasis in mammals?
+Options: A) To increase metabolic rate, B) To maintain a stable internal environment, C) To decrease blood glucose concentration, D) To fluctuate body temperature
+Answer: B) To maintain a stable internal environment
+<end>
+
+
+
+
+87<start>
+Question: What type of learning occurs when a young animal forms a lasting attachment to the first moving object it encounters?
+Options: A) Classical conditioning, B) Operant conditioning, C) Imprinting, D) Fixed action pattern
+Answer: C) Imprinting
+<end>
+
+
+
+
+88<start>
+Question: What is the main factor that drives the development of physical differences between males and females in primates with polygynous mating systems?
+Options: A) Genetic drift, B) Intensity of competition for mates, C) Environmental pressures, D) Random mutation
+Answer: B) Intensity of competition for mates
+<end>
+
+
+
+
+89<start>
+Question: Which plant tissue is most specialized for photosynthesis due to its high density of chloroplasts and what is the reason for its high rate of oxygen production?
+Options: A) Spongy mesophyll, because it has a loose arrangement of cells, B) Palisade mesophyll, because it has tightly packed, elongated cells rich in chloroplasts, C) Epidermis, because it has a high concentration of stomata, D) Vascular tissue, because it is responsible for transporting water and nutrients.
+Answer: B) Palisade mesophyll, because it has tightly packed, elongated cells rich in chloroplasts.
+<end>
+
+
+
+
+90<start>
+Question: What happens to a cell when it is placed in a hypotonic solution?
+Options: A) The cell will shrink, B) The cell will remain the same size, C) The cell will swell and rupture, D) The cell will divide
+Answer: C) The cell will swell and rupture
+<end>
+
+
+
+
+91<start>
+Question: What is the primary mechanism by which polyploidy restores fertility in hybrids between related plant species with different chromosome numbers?
+Options: A) Increasing genetic mutation, B) Improving chromosome pairing during meiosis, C) Enhancing environmental adaptation, D) Reducing genetic variation
+Answer: B) Improving chromosome pairing during meiosis
+<end>
+
+
+
+
+92<start>
+Question: What happens to cellular processes that rely on actin filaments when phalloidin is introduced?
+Options: A) They are enhanced, B) They are unaffected, C) They are disrupted, D) They are reversed
+Answer: C) They are disrupted
+<end>
+
+
+
+
+93<start>
+Question: What is the main condition for a population to be in Hardy-Weinberg equilibrium?
+Options: A) Small population size, B) Presence of genetic drift, C) Large and randomly mating population, D) High mutation rate
+Answer: C) Large and randomly mating population
+<end>
+
+
+
+
+94<start>
+Question: What is the primary way fungi obtain nutrients?
+Options: A) Through photosynthesis, B) By decomposing organic material or forming symbiotic relationships, C) By consuming other organisms, D) By producing their own food
+Answer: B) By decomposing organic material or forming symbiotic relationships
+<end>
+
+
+
+
+95<start>
+Question: What is the primary function of the enzyme encoded by the src oncogene in cellular signaling pathways?
+Options: 
+A) To add phosphate groups to serine residues on proteins
+B) To catalyze the transfer of phosphate groups to tyrosine residues on signal transduction proteins
+C) To remove phosphate groups from threonine residues on proteins
+D) To regulate cellular signaling pathways by adding phosphate groups to lysine residues on proteins
+Answer: B
+<end>
+
+
+
+
+96<start>
+Question: What is the primary difference in how C4 and CAM plants reduce photorespiration?
+Options: 
+A) C4 plants use temporal separation while CAM plants use spatial separation
+B) C4 plants use spatial separation while CAM plants use temporal separation
+C) Both C4 and CAM plants use spatial separation
+D) Both C4 and CAM plants use temporal separation
+Answer: B
+<end>
+
+
+
+
+97<start>
+Question: What is the correct sequence of membranes in a chloroplast from outermost to innermost?
+Options: A) Inner membrane, thylakoid membranes, outer membrane; B) Outer membrane, inner membrane, thylakoid membranes; C) Thylakoid membranes, inner membrane, outer membrane; D) Inner membrane, outer membrane, thylakoid membranes
+Answer: B) Outer membrane, inner membrane, thylakoid membranes
+<end>
+
+
+
+
+98<start>
+Question: What is not a common target for antibacterial drugs in bacterial cells?
+Options: A) Peptidoglycan synthesis, B) Protein synthesis, C) DNA synthesis, D) Reverse transcriptase
+Answer: D) Reverse transcriptase
+<end>
+
+
+
+
+99<start>
+Question: What process occurs in the formation of polytene chromosomes?
+Options: A) Mitosis, B) Endoreduplication, C) Meiosis, D) Binary Fission
+Answer: B) Endoreduplication
+<end>
+
+
+
+
+100<start>
+Question: What agent is most effective in inducing polyploidy in eukaryotic cells by disrupting the mitotic spindle?
+Options: A) Penicillin, B) Tetracycline, C) Puromycin, D) Colchicine
+Answer: D) Colchicine
+<end>
+
+
+
+
+101<start>
+Question: What is the main difference in energy production between plant cells and animal cells?
+Options: A) Plant cells have only mitochondria, while animal cells have both mitochondria and chloroplasts. B) Plant cells have both mitochondria and chloroplasts, while animal cells have only mitochondria. C) Plant cells have only chloroplasts, while animal cells have only mitochondria. D) Plant cells and animal cells have the same organelles for energy production.
+Answer: B) Plant cells have both mitochondria and chloroplasts, while animal cells have only mitochondria.
+<end>
+
+
+
+
+102<start>
+Question: What is the main difference between prokaryotic and eukaryotic cells?
+Options: A) Cell wall composition, B) Ability to perform photosynthesis, C) Presence or absence of a true nucleus and membrane-bound organelles, D) Metabolic processes
+Answer: C) Presence or absence of a true nucleus and membrane-bound organelles
+<end>
+
+
+
+
+103<start>
+Question: What is the primary mechanism that stabilizes the structure of an alpha helix in a protein?
+Options: A) Disulfide bridges, B) Hydrogen bonding between peptide backbone atoms, C) Carbohydrate moieties, D) Peptide linkages
+Answer: B) Hydrogen bonding between peptide backbone atoms
+<end>
+
+
+
+
+104<start>
+Question: How is a nucleosome dimer converted to monomers without disrupting their core structure?
+Options: A) Targeting the core histones with DNase, B) Targeting the linker DNA with DNase, C) Removing the H1 histone, D) Unwrapping the DNA from the histone core
+Answer: B) Targeting the linker DNA with DNase
+<end>
+
+
+
+
+105<start>
+Question: What distinguishes Archaea from other prokaryotes like Bacteria in terms of cell membrane composition?
+Options: A) Presence of phospholipids, B) Absence of isoprenylglycerol ethers, C) Presence of isoprenylglycerol ethers instead of phospholipids, D) Similarity to Chlamydia
+Answer: C) Presence of isoprenylglycerol ethers instead of phospholipids
+<end>
+
+
+
+
+106<start>
+Question: What happens to the rate of transpiration from plants when the temperature increases and the relative humidity decreases?
+Options: A) It decreases due to reduced water loss, B) It remains constant, C) It increases due to increased evaporation and water vapor gradient, D) It is unaffected by temperature and humidity
+Answer: C
+<end>
+
+
+
+
+107<start>
+Question: What type of cleavage occurs in eggs with a large amount of yolk concentrated at the vegetal pole?
+Options: A) Holoblastic cleavage, B) Meroblastic cleavage, C) Equational cleavage, D) Radial cleavage
+Answer: B) Meroblastic cleavage
+<end>
+
+
+
+
+108<start>
+Question: What is the primary outcome of cyclic electron flow through the electron transport chain in eukaryotic photosynthetic cells?
+Options: A) Reduction of NADP+ to NADPH, B) Release of O2, C) Synthesis of ATP through chemiosmosis, D) Reduction of CO2 to sugar
+Answer: C
+<end>
+
+
+
+
+109<start>
+Question: How do marine birds maintain a stable internal environment in terms of water and salt balance?
+Options: 
+A) By drinking large amounts of freshwater to dilute salt levels
+B) Through osmoregulation, using salt-exchange glands and kidneys to regulate water and salt levels
+C) By avoiding saltwater intake altogether
+D) By only producing concentrated urine
+Answer: B
+<end>
+
+
+
+
+110<start>
+Question: What reproductive strategy is characterized by small litter sizes and high parental investment, often found in stable environments with high competition?
+Options: A) r-selected, B) K-selected, C) Precocial development, D) Altricial development
+Answer: B) K-selected
+<end>
+
+
+
+
+111<start>
+Question: What is the primary source of the dry mass of an organic matter in an oak tree?
+Options: A) Mineral nutrients absorbed from the soil, B) Water absorbed from the soil, C) Organic compounds created through photosynthesis, D) Carbon dioxide from the atmosphere
+Answer: C) Organic compounds created through photosynthesis
+<end>
+
+
+
+
+112<start>
+Question: What is the main factor that drives evolution forward according to the Hardy-Weinberg principle?
+Options: A) Genetic drift, B) Mutation, C) Change in allele frequency, D) Gene flow
+Answer: C) Change in allele frequency
+<end>
+
+
+
+
+113<start>
+Question: What determines the persistence of a trait in a population according to the optimality theory in evolutionary biology?
+Options: A) Only the benefits of the trait, B) Only the costs of the trait, C) The trade-offs between the benefits and costs of the trait, D) Random chance
+Answer: C) The trade-offs between the benefits and costs of the trait
+<end>
+
+
+
+
+114<start>
+Question: What happens to the rate of reaction when an enzyme is fully saturated with substrate?
+Options: A) It decreases, B) It remains constant, C) It increases, D) It reaches its maximum velocity
+Answer: D) It reaches its maximum velocity
+<end>
+
+
+
+
+115<start>
+Question: What is the sequence of events in the Central Dogma that leads to a change in the polypeptide sequence due to a mutation in DNA?
+Options: 
+A) DNA → Translation → mRNA → Transcription → Polypeptide
+B) DNA → Transcription → tRNA → Translation → Polypeptide
+C) DNA → Transcription → mRNA → Translation → Polypeptide
+D) DNA → Replication → Transcription → mRNA → Polypeptide
+Answer: C
+<end>
+
+
+
+
+116<start>
+Question: How can the effect of a competitive inhibitor on an enzyme-catalyzed reaction be overcome?
+Options: A) Decreasing the substrate concentration, B) Increasing the substrate concentration, C) Changing the enzyme's structure, D) Decreasing the inhibitor concentration
+Answer: B) Increasing the substrate concentration
+<end>
+
+
+
+
+117<start>
+Question: How does the brain encode the intensity of a stimulus?
+Options: 
+A) By changing the amplitude of action potentials
+B) By changing the rate of action potentials
+C) By changing the duration of action potentials
+D) By changing the type of action potentials
+Answer: B
+<end>
+
+
+
+
+118<start>
+Question: What is the primary factor that affects photosynthesis and subsequently influences net primary productivity in terrestrial ecosystems?
+Options: A) Nutrient availability, B) Light intensity, C) Soil type, D) Atmospheric pressure
+Answer: B) Light intensity
+<end>
+
+
+
+
+119<start>
+Question: What technique is used to study membrane dynamics and protein movement by combining two cells from different species to form a cell with multiple nuclei?
+Options: A) Cell division, B) Cell fusion, C) Gene expression, D) Protein synthesis
+Answer: B) Cell fusion
+<end>
+
+
+
+
+120<start>
+Question: What is the effect of gene flow on the genetic variation within a population and the process of speciation?
+Options: 
+A) Gene flow decreases genetic variation within a population and accelerates speciation.
+B) Gene flow increases genetic variation within a population and counteracts speciation.
+C) Gene flow has no effect on genetic variation within a population and speciation.
+D) Gene flow decreases genetic variation within a population and has no effect on speciation.
+Answer: B
+<end>
+
+
+
+
+121<start>
+Question: What is the main component of chromatin and how is it structured?
+Options: 
+A) DNA and histones arranged in a linear fashion
+B) DNA wrapped around a core of histone proteins in a nucleosome
+C) Histones and other proteins without DNA
+D) DNA only, without histones
+Answer: B
+<end>
+
+
+
+
+122<start>
+Question: What is the most dependable environmental signal for a plant to initiate flowering in a temperate ecosystem?
+Options: A) Circadian rhythm, B) Temperature, C) Photoperiodism, D) Hormonal regulation
+Answer: C) Photoperiodism
+<end>
+
+
+
+
+123<start>
+Question: What is the primary mechanism by which mitochondria generate ATP during cellular respiration?
+Options: A) substrate-level phosphorylation, B) fermentation, C) chemiosmosis, D) photosynthesis
+Answer: C) chemiosmosis
+<end>
+
+
+
+
+124<start>
+Question: What is the primary characteristic that distinguishes nekton from other aquatic organisms?
+Options: A) Ability to photosynthesize, B) Ability to swim against currents, C) Dependence on water currents for movement, D) Inability to move independently
+Answer: B) Ability to swim against currents
+<end>
+
+
+
+
+125<start>
+Question: What characterizes a Fixed Action Pattern (FAP) in terms of its completion and sensory feedback?
+Options: A) Requires sensory feedback to continue, B) Stops immediately without completion, C) Continues to completion without sensory feedback, D) Is learned through experience
+Answer: C) Continues to completion without sensory feedback
+<end>
+
+
+
+
+126<start>
+Question: What type of flowers would a gardener plant to attract hummingbirds and favor their pollination?
+Options: A) Flat, ultraviolet-patterned flowers, B) Red, pendant or tubular flowers, C) Shallow, yellow-colored flowers, D) Small, bell-shaped flowers
+Answer: B) Red, pendant or tubular flowers
+<end>
+
+
+
+
+127<start>
+Question: What is the process of double fertilization in flowering plants?
+Options: 
+A) One sperm fertilizes the egg and the polar nuclei to form a zygote and endosperm
+B) Two sperm fertilize the egg to form a zygote and the endosperm
+C) One sperm fertilizes the egg to form a zygote and the other sperm fertilizes the polar nuclei to form the endosperm
+D) The egg and polar nuclei fertilize the sperm to form a zygote and endosperm
+Answer: C
+<end>
+
+
+
+
+128<start>
+Question: What is the primary role of Hox genes in Drosophila development?
+Options: A) Controlling cell division, B) Determining segment identity and patterning, C) Regulating metabolic pathways, D) Maintaining tissue homeostasis
+Answer: B) Determining segment identity and patterning
+<end>
+
+
+
+
+129<start>
+Question: What is the primary mechanism by which water enters plant roots?
+Options: A) Translocation and capillary action, B) Osmosis and root pressure, C) Respiration and photosynthesis, D) Mitosis and meiosis
+Answer: B) Osmosis and root pressure
+<end>
+
+
+
+
+130<start>
+Question: What process is primarily responsible for the cellular uptake of low-density lipoprotein (LDL) cholesterol?
+Options: A) Adhesion plaques, B) Receptor-mediated endocytosis, C) Passive diffusion, D) Active transport
+Answer: B) Receptor-mediated endocytosis
+<end>
+
+
+
+
+131<start>
+Question: What is the primary function of tracheids and vessel elements in the xylem tissue of plants?
+Options: A) To transport sugars, B) To provide structural support and transport water and minerals, C) To synthesize proteins, D) To store nutrients
+Answer: B) To provide structural support and transport water and minerals
+<end>
+
+
+
+
+132<start>
+Question: How do desert mammals conserve water in their excretory system?
+Options: A) Producing dilute urine, B) Using Malpighian tubules, C) Having kidneys that concentrate urine, D) Excreting excess salt
+Answer: C) Having kidneys that concentrate urine
+<end>
+
+
+
+
+133<start>
+Question: Which of the following is an example of Batesian mimicry?
+Options: 
+A) A venomous snake resembling a harmless lizard
+B) A harmless fly resembling a wasp that can sting
+C) A predator disguising itself as prey to hunt
+D) A plant mimicking a rock to absorb more sunlight
+Answer: B
+<end>
+
+
+
+
+134<start>
+Question: What is the primary role of a keystone species in its ecosystem?
+Options: A) To be the most abundant species, B) To provide a unique resource or service, C) To compete with dominant species, D) To reduce biodiversity
+Answer: B) To provide a unique resource or service
+<end>
+
+
+
+
+135<start>
+Question: What is a key characteristic of mitochondrial DNA that makes it useful for studying genetic variation and relatedness?
+Options: A) It mutates at a slower rate than nuclear DNA, B) It is passed from father to offspring, C) It contains hypervariable, noncoding regions with many single nucleotide polymorphisms, D) It only codes for mitochondrial proteins
+Answer: C) It contains hypervariable, noncoding regions with many single nucleotide polymorphisms
+<end>
+
+
+
+
+136<start>
+Question: What is the primary factor that influences the effectiveness of density-dependent regulatory factors in maintaining population equilibrium in ecosystems?
+Options: A) Climate change, B) Species migration, C) Level of biodiversity, D) Geographical location
+Answer: C) Level of biodiversity
+<end>
+
+
+
+
+137<start>
+Question: What genetic process is responsible for the presence of gray-bodied, vestigial-winged flies among the progeny of parent fruit flies with linked genes?
+Options: A) Independent assortment, B) Segregation of alleles, C) Crossing over, D) Penetrance
+Answer: C) Crossing over
+<end>
+
+
+
+
+138<start>
+Question: What is the primary equation that represents the interaction of carbon pools in the global carbon cycle?
+Options: 
+A) ΔC = F(out) - F(in)
+B) ΔC = F(in) - F(out)
+C) ΔC = F(in) + F(out)
+D) ΔC = F(in) * F(out)
+Answer: B
+<end>
+
+
+
+
+139<start>
+Question: What are the necessary conditions for natural selection to occur in a population?
+Options: 
+A) Genetic drift and mutation, 
+B) Variation in traits, heritability, differential reproduction, and overproduction, 
+C) Gene flow and genetic variation, 
+D) Mutation and genetic drift
+Answer: B) Variation in traits, heritability, differential reproduction, and overproduction
+<end>
+
+
+
+
+140<start>
+Question: What is the primary mechanism by which water ascends in the xylem of plants?
+Options: A) Osmosis, B) Active transport, C) Cohesion-tension theory, D) Diffusion
+Answer: C) Cohesion-tension theory
+<end>
+
+
+
+
+141<start>
+Question: What is the main component of fungal cell walls that distinguishes them from other organisms?
+Options: A) Cellulose, B) Chitin, C) Protein, D) DNA
+Answer: B) Chitin
+<end>
+
+
+
+
+142<start>
+Question: How do plants load sugars into the phloem for transport?
+Options: A) Passive diffusion, B) Osmosis, C) Active transport using proton pumps and symporters, D) Photosynthesis
+Answer: C) Active transport using proton pumps and symporters
+<end>
+
+
+
+
+143<start>
+Question: What is a characteristic of early-successional plant communities?
+Options: A) High niche divergence among co-occurring species, B) Low ratios of primary production to standing-crop biomass, C) Dominance by K-selected species, D) Low niche divergence among co-occurring species
+Answer: D) Low niche divergence among co-occurring species
+<end>
+
+
+
+
+144<start>
+Question: What is the primary pathway for sucrose movement in plants?
+Options: A) Apoplastic pathway, B) Symplastic pathway, C) Transmembrane pathway, D) Vacuolar pathway
+Answer: B) Symplastic pathway
+<end>
+
+
+
+
